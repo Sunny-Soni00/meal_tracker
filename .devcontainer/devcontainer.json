@@ -1,4 +1,7 @@
 {
-  "name": "Simple Codespace",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+  "name": "Basic",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "hostRequirements": {
+    "cpus": 1
+  }
 }
